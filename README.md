@@ -1,4 +1,1 @@
-# example-github-action-use-codefresh-report-image
-
-Adding line to run
-one more line
+# example-classic-codefresh-report-image
